@@ -1,4 +1,5 @@
 export const colors = {
   white: '#fff',
-  dkBlue: '#020798'
+  dkBlue: '#1b0075',
+  progBar: '#5E84E2'
 }
